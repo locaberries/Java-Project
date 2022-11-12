@@ -1,0 +1,3 @@
+eggs:40
+bread:20
+peppers:10
